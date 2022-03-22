@@ -9,11 +9,11 @@ The purpose of this report is to identify key factors that lead to success and f
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](Resources/Outcomes_Based_on_Lanuch_Date_Chart.png)
+![Outcomes Based on Launch Date](/Resources/Outcomes_Based_on_Lanuch_Date_Chart.png)
 This chart illustrates the outcomes of campaigns (successful, failed, or canceled) in the Theater/Plays subcategory based on the launch date of the campaign.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/Resources/Outcomes_vs_Goals.png)
 This chart illustrates the relationship between campaign outcome and the goal amount of the campaign.
 
 ### Challenges and Difficulties Encountered
