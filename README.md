@@ -1,7 +1,7 @@
 # Kickstarting Excel
 
 ## Overview of Project
-This project used Microsoft Excel to analyse data downloaded from Kickstarter's API. The data collected included information on fundraising campaigns of all different types from arround the world. The challege was to sort and filter the data to glean insights relevent to theatrical projects on the site, particularly plays.
+This project used Microsoft Excel to analyse data downloaded from Kickstarter's API. The data collected included information on fundraising campaigns of all different types from around the world. The challenge was to sort and filter the data to glean insights relevent to theatrical projects, particularly plays.
 
 ### Purpose
 The purpose of this report is to identify key factors that lead to success and failure when raising money for theatrical projects on the platform Kickstarter. The report will primarily examine two factors that may contribute to the outcomes of the fundraising campaigns; goal amount and launch date.
@@ -27,11 +27,11 @@ The total of the subcatagory was higher than what my table accounted for. It too
 
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Campaigns launched in the Month's of May and June have the best chance of success. Campaigns launched from the fall through winter (September to March) have the highest failure rates with campaigns launched in December have the worst outcomes of any month of the year.
+Campaigns launched in the month's of May and June have the best chance of success. Campaigns launched from the fall through winter (September to March) have the highest failure rates with campaigns launched in December having the worst outcomes of any month of the year.
 
 #### What can you conclude about the Outcomes based on Goals?
 
-The conclutions here are not as obvious. The chart doesn't show a single defined peak and valley. The data does have some takeaways.
+The conclusions here are not as obvious. The chart doesn't show a single defined peak and valley but the data does have some takeaways.
 
 Generally, the chance of success is best the lower the goal. The success rate is better than 50% for all compaigns with goals of less than $20,000. The rate of success in the lowest subgroup; goals of less than $1000 is nearly 80% and the success rate for the next subgroup; goals between $1000 and $4999, is nearly as high. 
 
